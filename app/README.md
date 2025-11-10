@@ -4,7 +4,7 @@ This app allows you to speak to all character features in the curriculum.
 
 1. Start a [![GitHub Codespace](https://img.shields.io/badge/GitHub-Codespace-brightgreen)](https://codespaces.new/microsoft/generative-ai-with-javascript)
 2. Navigate to _/app_ in the repo root.
-3. Locate the console and run `npm install` followed by `npm start`. 
+3. Open the terminal/console (in Codespaces: use the menu **Terminal > New Terminal** or press `` Ctrl+` `` / `` Cmd+` ``), then run `npm install` followed by `npm start`. 
 4. Once it appears, select the "Open in Browser" button. 
 
 You should see something like:

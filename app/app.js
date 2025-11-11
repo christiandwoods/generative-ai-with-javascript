@@ -13,6 +13,7 @@ console.log("SERVER systemMessage: ", systemMessage);
 console.log("SERVER page: ", page);
 
 dotenv.config();
+process.env.<GenAI-JavaScript-Course-Token> 
 
 const app = express();
 const port = process.env.PORT || 3000;
